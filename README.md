@@ -1,5 +1,5 @@
-### Second year Computer Science student at Warsaw University of Technology
-
+### Third year Computer Science student at Warsaw University of Technology
+Currently learning game programming in C++.
 <!--
 **jakubpietras/jakubpietras** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
