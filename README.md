@@ -1,4 +1,9 @@
-### Third year Computer Science student at Warsaw University of Technology
+### CS Student | Aspiring graphics programmer
+Technologies and languages:
+
+<img src="https://img.shields.io/badge/CUDA-76B900?style=for-the-badge&logo=NVIDIA&logoColor=white" /> <img src="https://img.shields.io/badge/OpenGL-5586A4?style=for-the-badge&logo=opengl&logoColor=white" /> <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
+
+
 <!--
 **jakubpietras/jakubpietras** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
