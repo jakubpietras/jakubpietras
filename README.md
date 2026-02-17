@@ -8,4 +8,4 @@
 
 🖥️ Love all things computer graphics and interactive media.
 
-🎮 Check out my games over at [jpdots.itch.io](https://jpdots.itch.io)!
+🎮 Check out my games over at [jaedots.itch.io](https://jaedots.itch.io)!
